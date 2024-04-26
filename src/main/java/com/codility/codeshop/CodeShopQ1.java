@@ -32,7 +32,10 @@ public class CodeShopQ1 {
 
     public static void assertReversal(String actual, String expected) {
         boolean asserted = actual.equals(expected);
-        System.out.println("actual:-" + actual + "expected:-" + expected + " assertion:-" + asserted);
+        if(asserted) {
+        System.out.println("(Passed)actual:-[" + actual + "] expected:-[" + expected + "]" );
+        }
+        System.err.println("(Failed)actual:-[" + actual + "] expected:-[" + expected + "]");
     }
 
     public static void main(String[] args) {
