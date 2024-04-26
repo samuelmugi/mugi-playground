@@ -4,27 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39441be4-d1f8-4fa8-84e7-6b45a1d7cba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codility/Question1kCB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codility/Question2kCB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codility/Question3kCB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codility/RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codility/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codility/SortUniqueMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codility/VisitCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mugi/Main.java" afterDir="false" />
+    <list default="true" id="39441be4-d1f8-4fa8-84e7-6b45a1d7cba1" name="Changes" comment="Code shop Q3 and Q4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codility/codilitykcb/KcbCodilityQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codility/codilitykcb/KcbCodilityQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codility/codilitykcb/KcbCodilityQ3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codility/kcb/Question1kCB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codility/kcbhackerank/Question1kCB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codility/kcb/Question2kCB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codility/kcbhackerank/Question2kCB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codility/kcb/Question3kCB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codility/kcbhackerank/Question3kCB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +23,37 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mugi_demos" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mugi_demos" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mugi_demos" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,34 +79,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.mugi_demos [:Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.mugi_demos [:CodeShopQ1.main()].executor": "Debug",
+    "Gradle.mugi_demos [:CodeShopQ2.main()].executor": "Run",
+    "Gradle.mugi_demos [:CodeShopQ3.main()].executor": "Run",
+    "Gradle.mugi_demos [:CodeShopQ4.main()].executor": "Run",
+    "Gradle.mugi_demos [:KcbCodilityQ2.main()].executor": "Run",
+    "Gradle.mugi_demos [:Main.main()].executor": "Run",
+    "Gradle.mugi_demos [:RayCodilityQ2.main()].executor": "Run",
+    "Gradle.mugi_demos [:RayCodilityQ3.main()].executor": "Run",
+    "Gradle.mugi_demos [build].executor": "Run",
+    "Gradle.mugi_demos [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/Shared/MUGI/mugi_demos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codility.codeshop" />
       <recent name="com.codility" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mugi.Main" />
+  <component name="RunManager" selected="Application.KcbCodilityQ2">
+    <configuration name="CodeShopQ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.codeshop.CodeShopQ2" />
+      <module name="mugi_demos.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeShopQ3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.codeshop.CodeShopQ3" />
+      <module name="mugi_demos.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeShopQ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.codeshop.CodeShopQ4" />
+      <module name="mugi_demos.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KcbCodilityQ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.codilitykcb.KcbCodilityQ2" />
       <module name="mugi_demos.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mugi.*" />
+          <option name="PATTERN" value="com.codility.raycodilitykcb.RayCodilityQ2" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,16 +148,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KcbCodilityQ3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codility.codilitykcb.KcbCodilityQ3" />
+      <module name="mugi_demos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codility.raycodilitykcb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CodeShopQ3" />
+      <item itemvalue="Application.CodeShopQ4" />
+      <item itemvalue="Application.KcbCodilityQ2" />
+      <item itemvalue="Application.KcbCodilityQ3" />
+      <item itemvalue="Application.CodeShopQ2" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CodeShopQ4" />
+        <item itemvalue="Application.CodeShopQ3" />
+        <item itemvalue="Application.KcbCodilityQ3" />
+        <item itemvalue="Application.KcbCodilityQ2" />
+        <item itemvalue="Application.CodeShopQ2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-92e50af3" />
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
       </set>
     </attachedChunks>
   </component>
@@ -123,6 +200,7 @@
       <workItem from="1709285922628" duration="21000" />
       <workItem from="1713719985823" duration="1101000" />
       <workItem from="1713894109734" duration="613000" />
+      <workItem from="1714068445751" duration="8059000" />
     </task>
     <servers />
   </component>
@@ -139,5 +217,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Git init" />
+    <MESSAGE value="Refactor" />
+    <MESSAGE value="Codeshop Q1" />
+    <MESSAGE value="Code shop Q2 and Q3" />
+    <MESSAGE value="Code shop Q3 and Q4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code shop Q3 and Q4" />
   </component>
 </project>
